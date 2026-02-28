@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Reflection;
 using Il2CppInterop.Runtime.InteropTypes.Arrays;
 using Il2CppRogue2048;
-using Il2CppSystem.Dynamic.Utils;
 using MelonLoader;
 
 namespace RuneDiceMod.Patches

@@ -5,3 +5,7 @@ A set of [MelonLoader](https://github.com/LavaGang/MelonLoader) mods for the [Ru
 ## Mods
 - Game Speed Selection
 	- Adds more game speeds to the selection up to 5x speed.
+- Demo Unlocker
+	- Unlocks the two other locations that are locked in the demo
+- Debug Logging
+	- See the game's Debug logs in the melonloader console
