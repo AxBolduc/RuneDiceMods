@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "RuneDiceMod": {
+      "commandName": "Project"
+    },
+    "Run Game": {
+      "commandName": "Executable",
+      "executablePath": "D:\\SteamLibrary\\steamapps\\common\\Rune Dice Demo\\Rune Dice Demo.exe",
+      "commandLineArgs": "--melonloader.debug"
+    }
+  }
+}
